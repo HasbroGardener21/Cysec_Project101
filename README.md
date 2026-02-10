@@ -1,4 +1,4 @@
-# Cysec_Project101
+# Cysec_Project101 file type identification tool using magicnumbers 
 this Repo is for trying out my hand in creating Cysec Tool related project reccos from CyberFlow's channel
 
 https://www.youtube.com/watch?v=10CLi-OUy4E&list=LL&index=1
